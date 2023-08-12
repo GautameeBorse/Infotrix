@@ -1,0 +1,1 @@
+Id = 1 : Name = Kiran : Salary = 20000 : City = Satara : Age = 24.
